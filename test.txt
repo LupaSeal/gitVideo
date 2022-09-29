@@ -1,3 +1,0 @@
-this is the first test once the text file was created
-this is the secound commit when I added this
-
